@@ -1,6 +1,5 @@
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.HashMap;
 
 /**
  * 一个特别laji的nand2teris汇编器

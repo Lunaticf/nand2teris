@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 /**
- * SymbolTable
+ * java.SymbolTable
  * symbol -> binary string
  * i -> 0000 0000 0001 0000
  * @author lunaticf
