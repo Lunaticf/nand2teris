@@ -21,5 +21,4 @@ Including the hack Assembler in first part, implemented by Java.
 
 - [x] [HackAssembler](https://www.nand2tetris.org/project06)
 
-    Here you can find all the detail about this project and the Binary Code specification.
-- [ ] 
+- [ ] [VMTranslator-part1](https://www.nand2tetris.org/project07)
